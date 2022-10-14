@@ -1,2 +1,3 @@
 Ciao Io sono il file di Merge
 Ciao sto andadndo avanti
+Un'altra modifica di un altro sviluppatore
