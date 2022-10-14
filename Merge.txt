@@ -1,12 +1,2 @@
-Ciao Io sono il 
-faccio la mia modifica
-Ciao sto andadndo avanti
-Un'altra modifica di un altro sviluppatore
-afwef
-afwef
-faccio la mia modifica
-fawefawe
-aa
-fqewf
-faewfwaef
-qwefqefqwef
+Ciao Io sono il file di merge
+
