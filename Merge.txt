@@ -1,3 +1,0 @@
-Ciao Io sono il file di Merge
-Funzione C
-Funzione D
