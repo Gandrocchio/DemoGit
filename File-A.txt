@@ -7,3 +7,4 @@ Funzione H
 
 
 Funzione B
+Funzione A
