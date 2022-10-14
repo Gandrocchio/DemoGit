@@ -4,3 +4,6 @@ Funzione A
 Funzione J
 Funzione K
 Funzione H
+
+
+Funzione B
